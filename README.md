@@ -5,7 +5,7 @@
 
 
 
-
+:office: Onde trabalho: Objetiva Digital e Centro Universitário SENAI - Joinville
 
          
  
