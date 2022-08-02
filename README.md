@@ -1,10 +1,10 @@
 ## Hello! Welcome to my Github profile.
 
-### My name is William Sestito and my nickname is "Sestito"!
+https://github.com/williamsestito/williamsestito/blob/main/myBanner.png
 
 
 
-
+##  💫 Um pouco mais sobre mim
 :office: Onde trabalho: Objetiva Digital e Centro Universitário SENAI - Joinville
 
 
