@@ -39,8 +39,7 @@
           
           
           
-          
-https://img.shields.io/endpoint?color=blue&label=ReactJS&logo=reacJS&logoColor=white&style=social&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Freact%2Freact-original.svg
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=ReactJS&logo=reacJS&logoColor=white&style=social&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Freact%2Freact-original.svg">
 
           
 
