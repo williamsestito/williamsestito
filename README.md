@@ -6,10 +6,12 @@
 
 
 ##  💫 Um pouco mais sobre mim
-:office: Onde trabalho: <a href="http://objetiva.digital/">Objetiva Digital</a> e <a href="https://faculdadesenaisc.com.br/">Centro Universitário SENAI - Joinville </a)
+:office: Onde trabalho: <a href="http://objetiva.digital/">Objetiva Digital</a> e <a href="https://faculdadesenaisc.com.br/">Centro Universitário SENAI - Joinville </a>
+:school: Em constante aprendizado
+:family: Dedicado a Familia
 
 
-
+<hr>
 
 ##  💻 Habilidades
 <p>
@@ -32,6 +34,6 @@
 
           
 
-          
+<img src="https://avatars.githubusercontent.com/u/18177247?v=4" width=115><br><sub>William Sestito<br>Dev</sub>](https://github.com/williamsestito)        
 
           
