@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello! Welcome to my Github profile.
 
-<!--
-**williamsestito/williamsestito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is William Sestito and my nickname is "Sestito"!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-php-plain"></i>
+<i class="devicon-npm-original-wordmark"></i>
+<i class="devicon-mysql-plain"></i>         
+<i class="devicon-typescript-plain"></i>
+<i class="devicon-visualstudio-plain"></i>
+<i class="devicon-vuejs-plain"></i>
+<i class="devicon-react-original"></i>
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-java-plain"></i>
+<i class="devicon-html5-plain"></i>
+<i class="devicon-css3-plain"></i>
+          
