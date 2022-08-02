@@ -1,6 +1,6 @@
 ## Hello! Welcome to my Github profile.
 
-<img src="https://github.com/williamsestito/williamsestito/blob/main/myBanner.png" alt="meu banner">
+<img src="https://github.com/williamsestito/williamsestito/blob/main/myBanner.png" alt="meu banner" width:"100%">
 
 
 
