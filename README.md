@@ -6,7 +6,7 @@
 
 
 ##  💫 Um pouco mais sobre mim
-:office: Onde trabalho: Objetiva Digital e Centro Universitário SENAI - Joinville
+:office: Onde trabalho: <a href="http://objetiva.digital/">Objetiva Digital</a> e <a href="https://faculdadesenaisc.com.br/">Centro Universitário SENAI - Joinville </a)
 
 
 
