@@ -1,7 +1,6 @@
 ## Hello! Welcome to my Github profile.
 
-<img src="https://github.com/williamsestito/williamsestito/blob/main/myBanner.png" alt="meu banner" width="100%">
-
+<a href="https://app.daily.dev/SestitoDev"><img src="https://api.daily.dev/devcards/bb9069a0b35e486fb7056545e8c56b70.png?r=rrw" width="400" alt="Sestito, William's Dev Card"/></a>
 
 
 ##  💫 Um pouco mais sobre mim
