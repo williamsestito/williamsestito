@@ -1,7 +1,8 @@
 ## Hello! Welcome to my Github profile.
-<center>
+<p align="center">
 <a href="https://app.daily.dev/SestitoDev"><img src="https://api.daily.dev/devcards/bb9069a0b35e486fb7056545e8c56b70.png?r=rrw" width="400" alt="Sestito, William's Dev Card"/></a>
- </center>
+ </p>
+
 
 
 ##  💫 Um pouco mais sobre mim
