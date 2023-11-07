@@ -6,8 +6,7 @@
 
 
 ##  💫 Um pouco mais sobre mim
-<p>:office: Onde trabalho: <a href="[http://objetiva.digital/](https://evolvecap.com.br/)">Evolve Tecnologia</a> e <a href="https://faculdadesenaisc.com.br/">Centro Universitário SENAI - Joinville </a></p>
-<p>:office: Onde trabalho: <a href="">Evolve Tecnologia</a> e <a href="https://faculdadesenaisc.com.br/">Centro Universitário SENAI - Joinville </a></p>
+<p>:office: Onde trabalho: <a href="https://evolvecap.com.br/">Evolve Tecnologia</a> e <a href="https://faculdadesenaisc.com.br/">Centro Universitário SENAI - Joinville </a></p>
 <p>:school: Em constante aprendizado</p>
 <p>:family: Dedicado a Familia</p>
 
