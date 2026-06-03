@@ -160,19 +160,10 @@ Tenho especial interesse em projetos que envolvam:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=williamsestito&show_icons=true&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de William Sestito">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsestito&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais utilizadas por William Sestito">
-</p>
-
----
-
 ## 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/williamsestito/">
+  <a href="https://www.linkedin.com/in/william-sestito-189488117/?locale=pt">
     <img src="https://img.shields.io/badge/LinkedIn-William_Sestito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:williamsestito@gmail.com">
